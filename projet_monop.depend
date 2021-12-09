@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639045803 source:c:\users\delpr\onedrive\documents\info\chap 12\projet_monop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
